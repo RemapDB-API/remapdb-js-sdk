@@ -1,7 +1,7 @@
 {
   "name": "remapdb-js-sdk",
-  "version": "1",
-  "description": "RemapDB.com - Vehicle Tuning Database API ",
+  "version": "1.0",
+  "description": "RemapDB.com - Vehicle Tuning Database API",
   "license": "Unlicense",
   "main": "src/index.js",
   "scripts": {
